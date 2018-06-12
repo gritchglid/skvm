@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://travis-ci.org/gritchglid/skvm">
-    <img src="https://camo.githubusercontent.com/e688e140da51d197ac1230acf711eb12f85f70be/68747470733a2f2f7472617669732d63692e6f72672f6d6f7269736869747465722f73637373666d742e737667" alt="Build Status" data-canonical-src="https://travis-ci.org/gritchglid/skvm.svg" style="max-width:100%;">
+    <img src="https://travis-ci.org/gritchglid/skvm.svg?branch=master" alt="Build Status" data-canonical-src="https://travis-ci.org/gritchglid/skvm.svg?branch=master" style="max-width:100%;">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-444444.svg?style=flat-square" alt="License">
